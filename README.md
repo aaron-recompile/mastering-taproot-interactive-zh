@@ -1,39 +1,40 @@
-# Mastering Taproot — Interactive Bitcoin Script Programming
+# Mastering Taproot — 精通比特币脚本编程（中文版）
 
-Interactive Jupyter companion for [Mastering Taproot](https://github.com/aaron-recompile/mastering-taproot), a complete developer guide to Bitcoin Taproot.
+[Mastering Taproot](https://github.com/aaron-recompile/mastering-taproot) 的交互式 Jupyter 配套，为 Bitcoin Taproot 提供完整的开发者指南。
 
-## What This Is
+## 这是什么
 
-This is the **interactive companion** to the book. The main repo provides the manuscript and reference code; this repo provides runnable Jupyter notebooks:
+这是本书的**交互式配套**。主仓库提供文稿和参考代码，本仓库提供可运行的 Jupyter  notebooks：
 
-- **Run**: Execute real Bitcoin Script examples step by step
-- **Modify**: Adjust keys, scripts, tree structures, and see results instantly
-- **Experiment**: Try "what if" scenarios
-- **Visualize**: Explore Taproot data structures interactively
+- **运行**：逐步执行真实的 Bitcoin Script 示例
+- **修改**：调整私钥、脚本、树结构等参数，即时查看结果
+- **实验**：尝试「如果…会怎样」的场景
+- **可视化**：交互式查看 Taproot 数据结构
 
-## Dependencies
+## 依赖
 
 ```bash
-# 1. Activate your environment
-conda activate bitcoin_course   # or your project conda env
+# 1. 激活环境
+conda activate bitcoin_course   # 或该项目的 conda 环境
 
-# 2. Install btcaaron (local dev version, recommended)
+# 2. 安装 btcaaron（本地开发版，推荐）
 pip install -e /path/to/btcaaron
 
-# 3. Install remaining dependencies
+# 3. 安装其余依赖
 pip install -r requirements.txt
 ```
 
-- **Chapters 1–4**: `bitcoin-utils` (Legacy / P2SH / SegWit)
-- **Chapters 5–8**: `btcaaron` (Taproot semantic API)
+- **第 1–4 章**：`bitcoin-utils`（Legacy / P2SH / SegWit）
+- **第 5–8 章**：`btcaaron`（Taproot 语义 API）
 
-More btcaaron examples in the `examples/` directory.
+更多 btcaaron 示例见 `examples/` 目录。
 
-## Online Site
+## 在线站点
 
-📖 [bitcoincoding.dev](https://bitcoincoding.dev)
+📖 中文版：[zh.bitcoincoding.dev](https://zh.bitcoincoding.dev)  
+📖 英文版：[bitcoincoding.dev](https://bitcoincoding.dev)
 
-## The Book
+## 本书
 
 📚 [github.com/aaron-recompile/mastering-taproot](https://github.com/aaron-recompile/mastering-taproot)
 

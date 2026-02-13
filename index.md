@@ -1,14 +1,14 @@
-# Mastering Taproot — Interactive Bitcoin Script Programming
+# Mastering Taproot - 精通比特币脚本编程
 
-![Cover](images/cover.jpg)
+![封面](images/cover.jpg)
 
-A runnable, reproducible complete guide to Bitcoin Taproot for developers.
+面向开发者的能运行、可复现的 Bitcoin Taproot 完整指南
 
-With full Python code examples and real testnet transaction verification.
+含完整的 Python 代码示例和真实测试网交易验证
 
 
 ---
 
-## Get Started
+## 开始学习
 
-English notebooks will be available soon. Stay tuned.
+👉 **[第一章：私钥、公钥与地址编码](notebooks/zh-Hans/Chapter_01_私钥与地址)**

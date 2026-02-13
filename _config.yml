@@ -1,8 +1,8 @@
-# Jupyter Book Configuration — Mastering Taproot Interactive (English)
+# Jupyter Book Configuration — Mastering Taproot Interactive (中文版)
 
-title: Mastering Taproot — Interactive Bitcoin Script Programming
+title: Mastering Taproot — 精通比特币脚本编程
 author: aaron-recompile
-language: en
+language: zh-Hans
 
 sphinx:
   config:
